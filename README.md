@@ -1,9 +1,9 @@
 # Cliente Service - Prueba Técnica Audifarma
 
-Autor: Oscar Julian Gonzalez Sanchez
-Preparado para: Audifarma
-Fecha: 27 de Mayo 2026
-Descripción: Microservicio desarrollado como prueba técnica para la vacante de Desarrollador Microservicios.
+* Autor: Oscar Julian Gonzalez Sanchez
+* Preparado para: Audifarma
+* Fecha: 27 de Mayo 2026
+* Descripción: Microservicio desarrollado como prueba técnica para la vacante de Desarrollador Microservicios.
 
 ## 📄 Descripción General
 Microservicio RESTful para la gestión de clientes y sus direcciones. Construido con Spring Boot 3.5.14 y Java 21, aplicando estrictamente los principios de la **Arquitectura Hexagonal (Puertos y Adaptadores)**, buenas prácticas de Clean Code y principios SOLID. 
