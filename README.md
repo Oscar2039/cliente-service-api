@@ -55,6 +55,10 @@ Esto desplegará:
 * Un **Deployment** con Liveness y Readiness probes configurados.
 * Un **Service** de tipo NodePort para exponer la aplicación.
 
+Para interactuar con la API desde fuera del clúster (entorno local), utilizar el siguiente comando:
+```bash
+kubectl port-forward svc/cliente-service 8080:8080
+```
 ---
 
 ## 🧪 Ejemplos para consumir la API (cURL)
